@@ -1,0 +1,12 @@
+dist/
+scripts/
+bin/
+lib/
+static/
+types/
+build/
+packages/**/node_modules
+applications/**/node_modules
+coverage
+node_modules/
+*/**/__snapshots__/
